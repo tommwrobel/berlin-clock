@@ -1,0 +1,4 @@
+# Created at 2020-09-27T01:09:32.679
+Boot Manifest-JAR contains absolute paths in classpath 'D:\REPO\berlinClock\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
